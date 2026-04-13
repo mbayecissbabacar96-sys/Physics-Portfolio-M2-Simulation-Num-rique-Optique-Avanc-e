@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Project Resources
-* 📄 **Scientific Report:** [Simulation_Faisceau_Gaussien_Kerr.pdf](./Simulation_de_la_propagation_d_un_faisceau_gaussien_et_introduction_à_l_effet_Kerr_optique.pdf)
+* 📄 **Scientific Report:** [Simulation_Faisceau_Gaussien_Kerr.pdf](./Simulation_Faisceau_Gaussien_Kerr.pdf)
 * 💻 **Python Code:** [script_propagation_laser.py](./script_propagation_laser.py)
 
 ---
