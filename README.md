@@ -28,4 +28,4 @@ Ce projet explore la dynamique de propagation d'un faisceau gaussien et introdui
 * [cite_start]Mise en évidence de la réduction de la divergence sous l'influence de l'effet Kerr, illustrant les prémices de la formation de filaments lumineux[cite: 169, 181].
 
 ---
-**Babacar NDIAYE** | *Master 2 Physique Appliquée – Nanophysique & Optique Avancée* | [cite_start]*Université du Mans* [cite: 66]
+**Babacar NDIAYE** | *Master 2 Physique Appliquée – Nanophysique & Optique Avancée* | *Université du Mans* 
